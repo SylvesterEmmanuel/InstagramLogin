@@ -1,4 +1,3 @@
 # InstagramLogin
 Simple instragram like login screen ui
-
-![login screen](/login screen.jpeg) 
+![login screen](login screen.jpeg).
